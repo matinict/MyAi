@@ -7,13 +7,10 @@ This repository showcases my AI projects, focusing on LLMs, data analysis, and a
 
 ### Project Showcase: LLM Projects by Matin
 
-1. Build Local Free AI: Ollama + LangChain**
- * Watch the walkthrough: [YouTube Video](https://youtu.be/3VQdn6X9veM) ([YouTube][1])
- * Explore the code: [GitHub – PoaiOllama](https://github.com/matinict/PoaiOllama)
- **Quick Pitch:**
- " Learn how to set up a local AI assistant using Ollama + LangChain—no cloud dependency, fully offline."
-
-
+1. Project A: An LLM-powered assistant
+1. Project B: An n8n workflow for data automation
+1. Project C: My latest local AI project
+   
 
 1. Build Local Free AI: Ollama + LangChain**
  * Watch the walkthrough: [YouTube Video](https://youtu.be/3VQdn6X9veM) ([YouTube][1])
@@ -21,6 +18,11 @@ This repository showcases my AI projects, focusing on LLMs, data analysis, and a
  **Quick Pitch:**
  " Learn how to set up a local AI assistant using Ollama + LangChain—no cloud dependency, fully offline."
 
+
+### Project Showcase: N8n Workflow by Matin 
+ 1. Project A: An LLM-powered assistant
+ 1. Project B: An n8n workflow for data automation
+ 1. Project C: My latest local AI project
 
 
 ## Related Repositories 
