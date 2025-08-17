@@ -5,17 +5,19 @@ I'm a developer specializing in AI, LLMs, and workflow automation with n8n. Chec
 This repository showcases my AI projects, focusing on LLMs, data analysis, and automation. It demonstrates my skills in Python, LangChain, and Ollama.
 
 ## Projects
-- **Chatbot with Ollama**: A local LLM-based chatbot using Deepseek for customer support.
-- **Data Visualization**: Scraped map data visualized with Folium.
- <details>
-<summary>Install model </summary>
-        
-    ##Vist   https://ollama.com/search
-    ollama run deepseek-r1
-    ollama run deepseek-r1:1.5b
-    ollama run llama3
-    ollama run llama3:latest
-</details>
+
+ ### Project Showcase: LLM Projects by Matin
+
+**1. Build Local Free AI: Ollama + LangChain**
+
+* Watch the walkthrough: [YouTube Video](https://youtu.be/3VQdn6X9veM) ([YouTube][1])
+* Explore the code: [GitHub – PoaiOllama](https://github.com/matinict/PoaiOllama)
+
+**Quick Pitch:**
+" Learn how to set up a local AI assistant using Ollama + LangChain—no cloud dependency, fully offline."
+
+
+
 
 
 ## Related Repositories 
