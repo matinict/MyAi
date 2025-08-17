@@ -18,7 +18,7 @@ This repository showcases my AI projects, focusing on LLMs, data analysis, and a
 </details>
 
 
-
+## Related Repositories 
 - [MyAi](https://github.com/matinict/MyAi): AI projects including chatbots and data analysis.
 - [PoaiOllama](https://github.com/matinict/PoaiOllama): Local LLM deployment with Ollama.
 - [MyN8N](https://github.com/matinict/MyN8N): Automation workflows for productivity.
