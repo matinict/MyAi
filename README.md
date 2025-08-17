@@ -5,7 +5,7 @@ This repository showcases my AI projects, focusing on LLMs, data analysis, and a
 
 ## Projects
 
- ### Project Showcase: LLM Projects by Matin
+### Project Showcase: LLM Projects by Matin
 
 1. Build Local Free AI: Ollama + LangChain**
  * Watch the walkthrough: [YouTube Video](https://youtu.be/3VQdn6X9veM) ([YouTube][1])
